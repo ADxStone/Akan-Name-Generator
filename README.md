@@ -32,9 +32,6 @@ Akan names are traditional names from Ghana, given to children depending on the 
 
 ---
 
-## Screenshot
-*(Add a screenshot of your webpage here if you’d like)*  
-
 ---
 
 ## Akan Naming System (Reference)
