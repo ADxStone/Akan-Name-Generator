@@ -24,6 +24,7 @@ form.addEventListener('submit', function(event) {
     }
 
     const result = document.getElementById('result');
-    result.innerHTML = `Your Akan name is: <strong>${akanName}</strong>`;
+    result.innerHTML = `Your Akan name is: <span style="font-weight: bold; color: red;">${akanName}</span>`;
+
 
 });
