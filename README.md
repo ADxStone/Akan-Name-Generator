@@ -5,6 +5,10 @@ Akan names are traditional names from Ghana, given to children depending on the 
 
 ---
 
+## Live Demo
+[Click here to view the site](https://adxstone.github.io/Akan-Name-Generator/)
+
+
 ## Features
 - Input your **birthdate** using a date picker.  
 - Select your **gender** (male or female).  
